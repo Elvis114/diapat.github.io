@@ -1,0 +1,70 @@
+.h1 {
+    text-decoration: underline;
+    text-align: center;
+  }
+  .h1:hover{
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.559);
+  
+  }
+  .p{
+    text-align: center;
+  }
+  label{
+    display: block;
+    height: 4em;
+    padding-left: 2em;
+    border-radius: 3em;
+    border: silver;
+    
+  }
+  body{
+    color: white;
+    font-family: Tahoma;
+    background-attachment: fixed;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8K44rSqefWKoUTGf3WAodveh5fVAByUa0JA&s) 
+  
+  }
+      .textarea{
+      width: 85%;
+      resize: vertical;
+      padding: 0.625rem;
+      min-height: 150px;
+      }
+      
+      form{
+        margin-left: 25%;
+        margin-right: 25%;
+      }
+    
+      .font{
+        width:50em;
+        height: 3em;
+        margin-bottom: 4cm;
+      }
+  
+  button{
+      background-color: aliceblue;
+      color: black;
+      border-radius: 6px;
+      padding: 5px;
+      padding-left: 7px;
+      padding-right: 7px;
+      box-shadow: 5px 5px 15px rgb(0, 0, 0);
+      border: silver;
+      margin-left: 1cm;
+      cursor: pointer;
+  }
+  .choice{
+    margin-left: 5%;
+  }
+  button:hover{
+      color:aliceblue;
+      background-color: black;
+  }
+  .prefer{
+    display: block;
+  }
+  .fieldset{
+    border: silver;
+    background-color: transparent;
+  }
